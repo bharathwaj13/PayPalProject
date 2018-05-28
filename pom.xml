@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>test</groupId>
-  <artifactId>Test</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>PayPal</artifactId>
+  <version>1.1.0</version>
   <packaging>jar</packaging>
 
   <name>Test</name>
@@ -88,6 +88,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>LeafTaps</finalName>
+		<finalName>PayPal</finalName>
 	</build>
 </project>
